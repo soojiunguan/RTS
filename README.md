@@ -1,2 +1,2 @@
-# RTS
-A real-time trading simulation using Rust
+# Abstract
+This report explores the use of Rust programming language to develop a real-time trading simulation system, emphasizing safety, performance, and concurrency. By leveraging Rust’s ownership model and memory safety features, the system achieves reliable scheduling, asynchronous communication, and robust error handling. Performance benchmarks demonstrate stable concurrent execution, though some resource synchronization inefficiencies remain.
